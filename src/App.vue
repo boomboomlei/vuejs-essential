@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <img src="./assets/logo.png">
-    <h1>Welcome to Learnku Vue.js.com</h1>
+    <h1>我叫boom  初学vue  以后大佬们多多指教哈！</h1>
   </div>
 </template>
 
